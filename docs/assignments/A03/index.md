@@ -30,7 +30,7 @@ Once I had my dimensions, I started with a simple sketch of a circle with the di
 ![](material.png)
 ![](global.png)
 
-Now it was time for the FEA. I went into 'Simulate' and fixed the left side of the beam to a wall. Then, I moved on to the right side and selected the far right surface and added a force of 400lbf going outward. Once this was done, I ran the simulation to see what I would get as my deflection. After the simulation was over, I was left with a deflection of 0.00899in. This was nearly identical to the one given to us in the problem description. I found the % difference by using the formula: |def_fea - def_hand| / def_hand * 100. This led me to getting a 0.11% difference. The Von Mises that I got from the FEA was 3.888ksi. This was under the Sy = 40ksi that the problem gave. Using both of these values, I got a Factor of Safety of 10.29.
+Now it was time for the FEA. I went into 'Simulate' and fixed the left side of the beam to a wall. Then, I moved on to the right side and selected the far right surface and added a force of 400lbf going outward. Once this was done, I ran the simulation to see what I would get as my deflection. After the simulation was over, I was left with a deflection of 0.00899in. The FEA deflection of 0.00899in was nearly identical to the maximum allowable deflection of 0.009in specified in the assignment.. I found the % difference by using the formula: |def_fea - def_hand| / def_hand * 100. This led me to getting a 0.11% difference. The Von Mises that I got from the FEA was 3.888ksi. This was under the Sy = 40ksi that the problem gave. Using both of these values, I got a Factor of Safety of 10.29.
 
 ![](forces.png)
 ![](fea.png)
@@ -58,5 +58,6 @@ Overall, the design satisfies both the stiffness and strength requirements.
 One challenge I encountered during this assignment was determining how to translate the analytical equations into a parametric CAD model. I had to make sure that the cross-sectional dimensions, material properties, force, and deflection requirement were correctly connected to the equations used to determine the bar length. One of the most useful parts of the assignment was comparing the analytical solution with the FEA result. The 0.11% difference showed me that FEA can closely match a theoretical solution when the model and boundary conditions accurately represent the assumptions of the analytical equation. I learned how analytical equations can be incorporated into a parametric CAD model rather than simply using fixed dimensions. This allows the design to automatically change when parameters such as force, diameter, material stiffness, or allowable deflection are changed.
 
 ## CAD File
+[Beam Model File](a3.SLDPRT)
 
-
+This assignment took me 4 hours.
