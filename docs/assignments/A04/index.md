@@ -6,7 +6,7 @@ Design a motor mount using the (Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5
 ![](appendixb.png)
 
 
-## Analyze ##Feature 1
+## Analyze Feature 1
 I started out by looking at appendix B to see what the design is supposed to look like. The motor mount was designed to support a 300 N applied load while maintaining a maximum deflection of 0.30 mm. The weight of the motor was neglected as specified in the assignment. PLA was selected as the material for the design. The material properties used for the calculations were a yield strength of 45.2 MPa and an elastic modulus of 2350 MPa. A safety factor of 3 was used to determine the allowable stress. Using the equation for allowed stress = Sy/N , I was able to get 15.07 MPa.
 
 Feature 1 was modeled as a horizontal cantilever beam fixed at the wall. The applied load was assumed to be 300 N at the free end. The beam length I selected was 50 mm and the beam width was selected as 40 mm. The required beam thickness was determined using the bending stress and deflection equations. Using my calculations I got a max stress of 6.94 MPa which is means that it will work for this design. My calculation for the deflection netted me 0.273mm which is below the max of 0.300mm. 
@@ -15,7 +15,7 @@ Feature 1 was modeled as a horizontal cantilever beam fixed at the wall. The app
 ![](fbd1.png)
 
 
-## Analyze ##Feature 2
+## Analyze Feature 2
 
 Feature 2 was modeled as a vertical cantilever beam attached to the wall. The vertical beam length was selected as 40 mm, while the beam width was selected as 40 mm. The required horizontal thickness was determined using the same bending stress and deflection approach used for Feature 1. I used the same modulus of elasticity and the same yield strength. After calculations, I got a stress of 9.18MPa and a deflection of 0.298mm which both fit my criteria. I also drew the FBD which was a vertical part instead of horizontal like feature 1 was. 
 ![](fbd.png)
