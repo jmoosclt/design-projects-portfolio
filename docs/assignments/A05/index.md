@@ -52,7 +52,12 @@ For feature B, we use the same knowns and are using the deflection formula to fi
 
 For feature C, I rearranged the the deflection formula again in order to solve for the thickness of this feature. After calculations, I got 0.491 inches as my answer. 
 
-For D, I used P/F and used the inertia formula I = wh^3/ 12  that to help find the minimum thickness which netted me 0.606 inches. 
+For D, I used P/F and used the inertia formula I = wh^3/ 12  that to help find the minimum thickness which netted me 0.0065 inches. 
+
+## Feature E 
+![](figureE.png)
+
+Lastly, for feature E, the goal was to find the height of the part. Using the deflection formula and rearranging it I was able to get 0.606 inches for the height.
 
 ## Sketches
 ![](sktch.png)
