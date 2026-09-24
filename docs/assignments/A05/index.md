@@ -55,10 +55,11 @@ For feature C, I rearranged the the deflection formula again in order to solve f
 For D, I used P/F and used the inertia formula I = wh^3/ 12  that to help find the minimum thickness which netted me 0.606 inches. 
 
 ## Sketches
+![](sketches.png)
 
 
 
 
 
-## Communicate
-
+## Lessons Learned
+Some lessons that I learned are that one bad calculation can set you back a lot since the numbers you use in one calculation are values that you use for the next one. This means that if an error is made early in the process, it can affect multiple calculations later on and change the final dimensions of the design. I learned that it is important to double-check each calculation before using the result in the next step. I also learned that stress and stiffness are both important when designing a part. A part can be strong enough to withstand the applied load but still deflect too much, so both analyses have to be considered when deciding on the final dimensions. For feature A, the stress analysis required a diameter of 1.15 in, while the stiffness analysis only required a diameter of 0.64 in. Since the stress requirement was larger, stress governed the final design. This showed me that a design can meet the stiffness requirement but still not be strong enough to safely support the applied load. Therefore, both stress and stiffness analyses need to be completed before selecting the final dimension.
