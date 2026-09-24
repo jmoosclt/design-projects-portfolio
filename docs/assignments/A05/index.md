@@ -55,7 +55,7 @@ For feature C, I rearranged the the deflection formula again in order to solve f
 For D, I used P/F and used the inertia formula I = wh^3/ 12  that to help find the minimum thickness which netted me 0.606 inches. 
 
 ## Sketches
-![](sketches.png)
+![](sktch.png)
 
 
 
