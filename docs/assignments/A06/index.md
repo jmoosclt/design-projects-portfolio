@@ -26,9 +26,11 @@ For part d, which connects part c and e, I used the thickness value 0.0594 which
 
 Lastly, for part e, I used a height of 0.79 which again was used from the stress calculations and I made it go in 1.25 inches on sides of the bracket leaving a 1.00 inch gap in the middle. Below shows my final parametric design compared to the concept design that was shown in the first part of the assignment. 
 
-![](complete.png) (My completed design)    vs ![](goal.png) (Conceptual bracket)
+![](complete.png) (My completed design)    vs (Conceptual bracket) ![](goal.png) 
 
-## Decide
+Once I had my final design it was time to make the drawing. 
+
+## Links to CAD Bracket and Drawing
 
 
 ## Communicate
