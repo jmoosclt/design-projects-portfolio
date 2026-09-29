@@ -43,6 +43,6 @@ In total this assignment took me about 3 hours. The first 2 hours were making th
 
 
 ## Links to CAD file and drawing:
-![](bracketdesign.SLDPRT)
-![](bracketdesign.SLDDRW)
+[PART](bracketdesign.SLDPRT)
+[DRAWING](bracketdesign.SLDDRW)
 
