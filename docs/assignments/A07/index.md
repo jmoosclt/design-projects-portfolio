@@ -19,6 +19,16 @@ To get the bracket ready for Finite Element Analysis, I added a fixed geometry o
 ![](Screenshot202026-10-2620205130.png)
 
 
+## Design 1
+Design 1 utilizes my original design from my previous project. This design is not optimized and will be ran through FEA in order to maximize how much stress it can handle while also reducing the weight 
+## Stress Simulation Results
+
+| Mesh | Design I|
+|---|---|---|---|
+| Coarse | ![](stress1c.png) | ![](disp1c.png) | 
+| Medium | ![](stress1dm.png) | ![](disp1m.png) |
+| Fine | ![](stress1f.png) | ![](disp1f.png) | 
+
 
 ## Decide
 
