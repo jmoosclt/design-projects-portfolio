@@ -15,7 +15,9 @@ Reflect on key engineering lessons learned and time spent.
 
 
 ## Setting up the bracket
-To get the bracket ready for Finite Element Analysis, I added a fixed geometry on the two bottom parts on where it would be theoretically hanging. Then I used a 650 lbf that would be pulling down on the cylindrical hanger part of the bracket 
+To get the bracket ready for Finite Element Analysis, I added a fixed geometry on the two bottom parts on where it would be theoretically hanging. Then I used a 650 lbf that would be pulling down on the cylindrical hanger part of the bracket.
+![](Screenshot202026-10-2620205130.png)
+
 
 
 ## Decide
