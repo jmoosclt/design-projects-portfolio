@@ -78,6 +78,8 @@ This assignment took me about 4 hours to complete.
 
 ## CAD FILES
 [1](bracketdesign1.SLDPRT)
-[1](bracketdesign2.SLDPRT)
-[1](bracketdesign3.SLDPRT)
+
+[2](bracketdesign2.SLDPRT)
+
+[3](bracketdesign3.SLDPRT)
 
