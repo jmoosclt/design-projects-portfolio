@@ -77,7 +77,7 @@ One of the biggest mistakes I made during this assignment was applying the force
 This assignment took me about 4 hours to complete.
 
 ## CAD FILES
-![](bracketdesign1.SLDPRT)
-![](bracketdesign2.SLDPRT)
-![](bracketdesign3.SLDPRT)
+!(bracketdesign1.SLDPRT)
+!(bracketdesign2.SLDPRT)
+!(bracketdesign3.SLDPRT)
 
