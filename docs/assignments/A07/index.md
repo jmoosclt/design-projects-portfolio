@@ -28,7 +28,7 @@ Design 1 utilizes my original design from my previous project. This design is no
 | Mesh | Stress | Displacement |
 |---|---|---|
 | Coarse | <img src="stress1c.png" width="250"> | <img src="disp1c.png" width="250"> |
-| Medium | <img src="stress1dm.png" width="250"> | <img src="disp1m.png" width="250"> |
+| Medium | <img src="stress1m.png" width="250"> | <img src="disp1m.png" width="250"> |
 | Fine | <img src="stress1f.png" width="250"> | <img src="disp1f.png" width="250"> |
 
 
