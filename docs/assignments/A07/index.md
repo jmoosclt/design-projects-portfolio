@@ -10,8 +10,12 @@ Optimize the design by modifying geometry to enhance performance.
 Document the entire process with images, calculations, and insights.
 Reflect on key engineering lessons learned and time spent.
 
+![](workflow.png)
 
-## Analyze
+
+
+## Setting up the bracket
+To get the bracket ready for Finite Element Analysis, I added a fixed geometry on the two bottom parts on where it would be theoretically hanging. Then I used a 650 lbf that would be pulling down on the cylindrical hanger part of the bracket 
 
 
 ## Decide
