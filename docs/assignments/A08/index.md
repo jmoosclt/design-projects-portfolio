@@ -76,3 +76,4 @@ Overall, this project helped me improve my SolidWorks modeling and assembly skil
 
 This assignment took me 5 hours to complete, most of it being CAD
 
+!final.SLDASM
