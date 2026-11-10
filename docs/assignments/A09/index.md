@@ -7,7 +7,12 @@ Belt Tension (Static): Select a belt tension between 4–6 lbf under stationary 
 Material: Pulleys may be made from aluminum, ABS, or steel, and may include a groove and shaft diameter of your choosing (within reasonable manufacturing limits).
 Safety Factor: The design must satisfy a minimum safety factor of 3.
 Assume the belt is made from polyurethane rubber, with a yield strength of 3.25 MPa (471 psi) at 20% strain, based on: Wanga, Chena, Wua, Zhangb, Suna, “Strain-induced Structural and Dynamic Changes in Segmented Polyurethane Elastomers.”
-## Objective
+
+![](pulley.png)
+
+
+## Selecting the belt
+The goal was to find a belt that would be in the pulley system. First, I listed out the knowns and unknowns and drew out the Free Body Diagram. For RPM speed, I chose 1500 RPM and for the center distance, I chose 6 inches. The safety factor was 3 because the pulley system is made out of 1060 hardened steel
 
 
 ## Analyze
